@@ -3,3 +3,10 @@ Hey! This is for the second lesson.
 What happens when you initialize a repository? Why do you need to do it?
 
 We need to do it so that git starts tracking the files in our repo!
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+It lets me know what files to commit before actually commiting them. its a nice
+way to look at all the changes in the file and gives me more control over what 
+I commit.
