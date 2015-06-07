@@ -1,0 +1,5 @@
+Hey! This is for the second lesson.
+
+What happens when you initialize a repository? Why do you need to do it?
+
+We need to do it so that git starts tracking the files in our repo!
