@@ -14,3 +14,21 @@ you use one instead of another?
 I would fork when I want to extend an open source project on Github. I would branch when I
 wanted to add a new feature on my own codebase, and I would clone when I wanted a codebase
 from another area on my computer or on the cloud copied onto my computer locally.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can check how far ahead you are of the latest remote copy even if you're offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and 
+what would be harder?
+
+I would make branches and make changes, and the make pull requests so that my mates
+can check them and merge. It would be hard to see all the changes I make and merge, because
+of conflicts. But it would be easier to collaborate.
+
+When would you want to make changes in a separate branch rather than directly in 
+master? What benefits does each approach have?
+
+YOu would want to make a seperate branch if you're working WITH people. This would help
+them see the changes you've made before merging. If im working alone on a small project,
+one branch would be enough and I could make changes directly in master.
