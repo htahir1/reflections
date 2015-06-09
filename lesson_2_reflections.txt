@@ -10,3 +10,9 @@ What value do you think it offers?
 It lets me know what files to commit before actually commiting them. its a nice
 way to look at all the changes in the file and gives me more control over what 
 I commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area is the snapshop the latest diff along with the latest added changes from
+the working directory. Using diff, I can see the changes I have made from the last commit
+and so I can pinpoint a time where I need to commit again.
