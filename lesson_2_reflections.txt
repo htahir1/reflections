@@ -22,3 +22,7 @@ How would branches help?
 
 If I wanted to try out a new feature, make a language change, do other cool stuff without
 breaking my code.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help me see which commits are reachable from which branch.
