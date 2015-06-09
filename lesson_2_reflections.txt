@@ -26,3 +26,9 @@ breaking my code.
 How do the diagrams help you visualize the branch structure?
 
 Diagrams help me see which commits are reachable from which branch.
+
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+All the changes in both branches get combined together. We represent it in the 
+diagram as a combination of all the commits made by both branches.
